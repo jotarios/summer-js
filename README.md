@@ -23,7 +23,7 @@ https://github.com/wesbos/eslint-config-wesbos
 ## Packages
 
 ```
-Mongoose: https://github.com/remy/nodemon
+Mongoose: https://github.com/Automattic/mongoose
 Restify Router: https://github.com/ukayani/restify-router
 Restify Cors: https://github.com/Tabcorp/restify-cors-middleware
 DotEnv: https://github.com/motdotla/dotenv
